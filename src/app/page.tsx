@@ -3,7 +3,7 @@
 import AllProducts from "@/components/allproducts";
 import { Carousels } from "@/components/carousel";
 import { ModeToggle } from "@/components/mode-toggle";
-import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
+
 
 const Page = () => {
   return (
