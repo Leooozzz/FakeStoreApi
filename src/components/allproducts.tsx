@@ -53,10 +53,6 @@ const DestaqueProducts = () => {
             <p className="text-xl font-semibold text-blue-600 ">
               R${product.price.toFixed(2)}
             </p>
-
-            <button className="mt-4 bg-blue-600 text-white py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors duration-300">
-              Adicionar ao Carrinho
-            </button>
           </li>
         ))}
       </ul>
