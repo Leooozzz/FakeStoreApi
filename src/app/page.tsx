@@ -8,7 +8,7 @@ import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious
 
 const Page = () => {
   return (
-    <div className="bg-white dark:bg-gray-900 shadow-md sticky top-0">
+    <div className="  shadow-md sticky top-0">
       <Header/>
      <section className="mx-auto container max-w-5xl px-4 py-8">
         <div className="relative overflow-hidden rounded-xl shadow-lg">
